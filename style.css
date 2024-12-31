@@ -1,0 +1,554 @@
+header{
+    width: 100%;
+    height: 400px;
+    background-color: rgb(32, 32, 68);
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    padding-bottom: 10px;
+}
+main{
+    width: 100%;
+    height: 2500px;
+    background-color: rgb(60, 60, 109);
+    color: white;
+}
+
+
+body{
+    background-color: rgb(32, 32, 68);
+    font-size: 40px;
+   color: white;
+}
+
+.d1{
+    float: left;
+    display: flex;
+    justify-content: center;
+    border: 12px  solid white;
+    width: 14%;
+    height: 15%;
+    font-size: 80px;
+}
+.f1{
+    float: left;
+    display: flex;
+    justify-content: center;
+    border: 12px  solid white;
+    width: 28%;
+    height: 15%;
+    font-size: 80px;
+}
+.g1{
+    float: left;
+    display: flex;
+    justify-content: center;
+    border: 12px  solid white;
+    width: 28%; 
+    height: 16%;
+    font-size: 80px;
+}
+.h1{
+    float: left;
+    display: flex;
+    justify-content: center;
+    border: 12px  solid white;
+    width: 28%;
+    height: 16%;
+    font-size: 80px;
+}
+.j1{
+    float: left;
+    display: flex;
+    justify-content: center;
+    border: 12px  solid white;
+    width: 28%;
+    height: 16%;
+    font-size: 80px;
+}
+.k1{
+    float: left;
+    display: flex;
+    justify-content: center;
+    border: 12px  solid white;
+    width: 16%;
+    height: 16%;
+    font-size: 80px;
+}
+
+.d2{
+    float: left;
+    display: flex;
+    justify-content: center;
+    border: 12px  solid white;
+    width: 14%;
+    height: 15%;
+    font-size: 80px;
+    
+}
+.f2{
+    float: left;
+    display: flex;
+    justify-content: center;
+    border: 12px  solid white;
+    width: 14%;
+    height: 15%;
+    font-size: 80px;
+    text-decoration: none;
+}
+.g2{
+    float: left;
+    display: flex;
+    justify-content: center;
+    border: 12px  solid white;
+    width: 14%; 
+    height: 16%;
+    font-size: 80px;
+    text-decoration: none;
+}
+.h2{
+    float: left;
+    display: flex;
+    justify-content: center;
+    border: 12px  solid white;
+    width: 14%;
+    height: 16%;
+    font-size: 80px;
+    text-decoration: none;
+}
+.j2{
+    float: left;
+    display: flex;
+    justify-content: center;
+    border: 12px  solid white;
+    width: 14%;
+    height: 16%;
+    font-size: 80px;
+    text-decoration: none;
+}
+.k2{
+    float: left;
+    display: flex;
+    justify-content: center;
+    border: 12px  solid white;
+    width: 14%;
+    height: 16%;
+    font-size: 80px;
+    text-decoration: none;
+}
+.d3{
+    float: left;
+    display: flex;
+    justify-content: center;
+    border: 12px  solid white;
+    width: 14%;
+    height: 15%;
+    font-size: 80px;
+    text-decoration: none;
+}
+.f3{
+    float: left;
+    display: flex;
+    justify-content: center;
+    border: 12px  solid white;
+    width: 14%;
+    height: 15%;
+    font-size: 80px;
+    text-decoration: none;
+}
+.g3{
+    float: left;
+    display: flex;
+    justify-content: center;
+    border: 12px  solid white;
+    width: 14%; 
+    height: 16%;
+    font-size: 80px; 
+    text-decoration: none;
+}
+.h3{
+    float: left;
+    display: flex;
+    justify-content: center;
+    border: 12px  solid white;
+    width: 14%;
+    height: 16%;
+    font-size: 80px;
+}
+.j3{
+    float: left;
+    display: flex;
+    justify-content: center;
+    border: 12px  solid white;
+    width: 14%;
+    height: 16%;
+    font-size: 80px;
+}
+.k3{
+    float: left;
+    display: flex;
+    justify-content: center;
+    border: 12px  solid white;
+    width: 14%;
+    height: 16%;
+    font-size: 80px;
+}
+.d4{
+    float: left;
+    display: flex;
+    justify-content: center;
+    border: 12px  solid white;
+    width: 13%;
+    height: 15%;
+    font-size: 80px;
+}
+.f4{
+    float: left;
+    display: flex;
+    justify-content: center;
+    border: 12px  solid white;
+    width: 14%;
+    height: 15%;
+    font-size: 80px;
+}
+.g4{
+    float: left;
+    display: flex;
+    justify-content: center;
+    border: 12px  solid white;
+    width: 14%; 
+    height: 16%;
+    font-size: 80px;
+}
+.h4{
+    float: left;
+    display: flex;
+    justify-content: center;
+    border: 12px  solid white;
+    width: 14%;
+    height: 16%;
+    font-size: 80px;
+}
+.j4{
+    float: left;
+    display: flex;
+    justify-content: center;
+    border: 12px  solid white;
+    width: 14%;
+    height: 16%;
+    font-size: 80px;
+}
+.k4{
+    float: left;
+    display: flex;
+    justify-content: center;
+    border: 12px  solid white;
+    width: 14%;
+    height: 16%;
+    font-size: 80px;
+}
+.d5{
+    float: left;
+    display: flex;
+    justify-content: center;
+    border: 12px  solid white;
+    width: 14%;
+    height: 15%;
+    font-size: 80px;
+   
+   
+}
+.f5{
+    float: left;
+    display: flex;
+    justify-content: center;
+    border: 12px  solid white;
+    width: 13%;
+    height: 15%;
+    font-size: 80px;
+}
+.g5{
+    float: left;
+    display: flex;
+    justify-content: center;
+    border: 12px  solid white;
+    width: 13%; 
+    height: 16%;
+    font-size: 80px;
+}
+.h5{
+    float: left;
+    display: flex;
+    justify-content: center;
+    border: 12px  solid white;
+    width: 13%;
+    height: 16%;
+    font-size: 80px;
+}
+.j5{
+    float: left;
+    display: flex;
+    justify-content: center;
+    border: 12px  solid white;
+    width: 13%;
+    height: 16%;
+    font-size: 80px;
+}
+.k5{
+    float: left;
+    display: flex;
+    justify-content: center;
+    border: 12px  solid white;
+    width: 13%;
+    height: 16%;
+    font-size: 80px;
+}
+
+.d6{
+    float: left;
+    display: flex;
+    justify-content: center;
+    border: 12px  solid white;
+    width: 14%;
+    height: 15%;
+    font-size: 80px;
+}
+.f6{
+    float: left;
+    display: flex;
+    justify-content: center;
+    border: 12px  solid white;
+    width: 14%;
+    height: 15%;
+    font-size: 80px;
+}
+.g6{
+    float: left;
+    display: flex;
+    justify-content: center;
+    border: 12px  solid white;
+    width: 14%; 
+    height: 16%;
+    font-size: 80px;
+}
+.h6{
+    float: left;
+    display: flex;
+    justify-content: center;
+    border: 12px  solid white;
+    width: 14%;
+    height: 16%;
+    font-size: 80px;
+}
+.j6{
+    float: left;
+    display: flex;
+    justify-content: center;
+    border: 12px  solid white;
+    width: 14%;
+    height: 16%;
+    font-size: 80px;
+}
+.k6{
+    float: left;
+    display: flex;
+    justify-content: center;
+    border: 12px  solid white;
+    width: 14%;
+    height: 16%;
+    font-size: 80px;
+}
+
+.d1 a{
+    text-decoration: none;
+    display: block;
+color: white;
+
+}
+.d2 a{
+    text-decoration: none;
+    display: block;
+color: white;
+}
+.d3 a{
+    text-decoration: none;
+    display: block;
+color: white;
+}
+.d4 a{
+    text-decoration: none;
+    display: block;
+color: white;
+
+}
+.d5 a{
+    text-decoration: none;
+    display: block;
+color: white;
+}
+.f1 a{
+    text-decoration: none;
+    display: block;
+color: white;
+}
+.f2 a{
+    text-decoration: none;
+    display: block;
+color: white;
+}
+.f3 a{
+    text-decoration: none;
+    display: block;
+color: white;
+}
+.f4 a{
+    text-decoration: none;
+    display: block;
+color: white;
+
+}
+.f5 a{
+    text-decoration: none;
+    display: block;
+color: white;
+}
+.f6 a{
+    text-decoration: none;
+    display: block;
+color: white;
+}
+.g1 a{
+    text-decoration: none;
+    display: block;
+color: white;
+}
+.g2 a{
+    text-decoration: none;
+    display: block;
+color: white;
+}
+.g3 a{
+    text-decoration: none;
+    display: block;
+color: white;
+}
+.g4 a{
+    text-decoration: none;
+    display: block;
+color: white;
+
+}
+.g5 a{
+    text-decoration: none;
+    display: block;
+color: white;
+}
+.g6 a{
+    text-decoration: none;
+    display: block;
+color: white;
+}
+.h1 a{
+    text-decoration: none;
+    display: block;
+color: white;
+}
+.h2 a{
+    text-decoration: none;
+    display: block;
+color: white;
+}
+.h3 a{
+    text-decoration: none;
+    display: block;
+color: white;
+}
+.h4 a{
+    text-decoration: none;
+    display: block;
+color: white;
+
+}
+.h5 a{
+    text-decoration: none;
+    display: block;
+color: white;
+}
+.h6 a{
+    text-decoration: none;
+    display: block;
+color: white;
+}
+.j1 a{
+    text-decoration: none;
+    display: block;
+color: white;
+}
+.j2 a{
+    text-decoration: none;
+    display: block;
+color: white;
+}
+.j3 a{
+    text-decoration: none;
+    display: block;
+color: white;
+}
+.j4 a{
+    text-decoration: none;
+    display: block;
+color: white;
+
+}
+.j5 a{
+    text-decoration: none;
+    display: block;
+color: white;
+}
+.j6 a{
+    text-decoration: none;
+    display: block;
+color: white;
+}
+.k1 a{
+    text-decoration: none;
+    display: block;
+color: white;
+}
+.k2 a{
+    text-decoration: none;
+    display: block;
+color: white;
+}
+.k3 a{
+    text-decoration: none;
+    display: block;
+color: white;
+}
+.k4 a{
+    text-decoration: none;
+    display: block;
+color: white;
+
+}
+.k5 a{
+    text-decoration: none;
+    display: block;
+color: white;
+}
+.k6 a{
+    text-decoration: none;
+    display: block;
+color: white;
+}
+.d8{
+    float: left;
+    display: flex;
+    justify-content: center;
+    border: 12px  solid white;
+    width: 28%;
+    height: 15%;
+    font-size: 80px;
+}
+
+
